@@ -52,4 +52,33 @@ Key visualizations include:
 
 - 📉 Time series plots of unemployment rates across India
 - 📍 Regional unemployment comparisons by state
-- 📆 Seasonal trend
+- 📆 Seasonal trends in unemployment
+
+---
+
+## 🏁 How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Avinashsingh1215/unemployment-analysis.git
+   cd unemployment-analysis
+
+2. Install the required libraries:
+
+    ```bash
+    pip install -r requirements.txt
+
+3. Launch the Jupyter Notebook:
+
+    ```bash
+    jupyter notebook
+
+⚠️ Make sure the dataset files are placed in the same directory as the notebook to avoid file path errors.
+
+## 🤝 Contributing
+Contributions are welcome!
+If you have suggestions, improvements, or corrections, feel free to open an issue or submit a pull request.
+
+
+
