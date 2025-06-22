@@ -77,7 +77,9 @@ Key visualizations include:
 ⚠️ Make sure the dataset files are placed in the same directory as the notebook to avoid file path errors.
 
 ## 🤝 Contributing
+
 Contributions are welcome!
+
 If you have suggestions, improvements, or corrections, feel free to open an issue or submit a pull request.
 
 
